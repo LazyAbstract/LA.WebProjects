@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LA_WebProjects" Class="LAWebProjectsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=LA_WebProjects;Integrated Security=True" SettingsObjectName="LA.WebProjects.Core.Properties.Settings" SettingsPropertyName="LA_WebProjectsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="ALTUS.prueba" Member="pruebas">
+    <Type Name="prueba">
+      <Column Name="id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
